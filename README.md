@@ -16,3 +16,4 @@ Formation Git Sopra Steria du 27 septembre 2021.
 - git branch
 - git switch
 - git checkout
+- git merge
