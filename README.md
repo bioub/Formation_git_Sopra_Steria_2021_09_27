@@ -10,3 +10,9 @@ Formation Git Sopra Steria du 27 septembre 2021.
 - git commit
 - git config
 - git log
+
+## Commandes sur les branches
+
+- git branch
+- git switch
+- git checkout
